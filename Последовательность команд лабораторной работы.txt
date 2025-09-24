@@ -1,0 +1,143 @@
+  376  mkdir lab0
+  377  ls lab0
+  378  mkdir hitmontop5
+  379  rm hitmontop5
+  380  ls
+  381  rmdir hitmontop5
+  382  ls
+  383  cd lab0
+  384  mkdir hitmontop5
+  385  cd hitmontop5
+  386  mkdir igglybuff
+  387  mkdir dewolt
+  388  mv dewolt dewott
+  389  mkdir infernape
+  390  mkdir bibarel
+  391  touch geodude
+  392  echo "Живет  Cave Mountain"> geodude
+  393  ls
+  394  cd ..
+  395  mkdir mandibuzz0
+  396  cd mandibuzz0
+  397  touch typhlosion
+  398  echo "Ходы  Blast Burn Body Slam
+  399  Counter Covet Dynamicpunch Fire Pledge Fire Punch Focus Punch Fury
+  400  Cutter Gyro Ball# Heat Wave Mega Kick Mega Punch Low Kick Mud-Slap
+  401  Rollout Seismic Toss Sleep Talk Snore Swift
+  402  Thunderpunch"> typhlosion
+  403  echo "Способности  Bride Meditate Confusion Detect
+  404  Hidden Power Mind Reader Feint Calm Mind Force Palm Hi Jump Kick Psych
+  405  Up Acupressure Power Trick Reversal Recover"> meditite
+  406  ls
+  407  echo "Способности
+  408  Mind Mold Forewarn Synchronize">musharna
+  409  mkdir watchog
+  410  cd ..
+  411  echo "satk=8 sdef=8
+  412  spd=6">masquerain4
+  413  mkdir munna6
+  414  ls
+  415  cd munna6
+  416  mksir masquerain
+  417  mkdir masquerain
+  418  echo "Возможности  Overland=6 Surface=10 Underwater=10
+  419  Jump3=0 Power=4 Intelligence=5 Telepath=0"> golduck
+  420  echo "weight=65.0
+  421  height=39.0 atk=8 def=4">beedrill
+  422  cd ..
+  423  echo "Способности  Venom Poison Point
+  424  Rivalry">nidorina0
+  425  echo "satk=9 sdef=8 spd=10"> raichu6
+  426  ls
+  427  cd home/s504606
+  428  ls -r lab0 | grep '^i.*' |
+  429  cd home/s504606
+  430  cd lab0
+  431  chmod gitmontop5 756
+  432  chmod hitmontop5 756
+  433  chmod 756 hitmontop5
+  434  chmod 512 igglybuff
+  435  chmod 512 hitmontop5/igglybuff
+  436  chmod 500 hitmontop5/dewott
+  437  chmod a=x hitmontop5/infernape
+  438  chmod u+r hitmontop5/infernape
+  439  ls -lR
+  440  cd home/s504606
+  441  cd lab0
+  442  chmod 700 hitmontop5/bidarel
+  443  chmod 700 hitmontop5/bibarel
+  444  chmod 640 hitmontop5/geodude
+  445  chmod 512 mandibuzz0
+  446  chmod 044 mandibuzz0/typhlosion
+  447  chmod 444 mandibuzz0/meditite
+  448  chmod 404 mandibuzz0/musharna
+  449  chmod 335 mandibuzz0/watchog
+  450  chmod 004 masquerain4
+  451  chmod 777 munna6
+  452  chmod 550 munna6/masquerain
+  453  chmod 664 munna6/golduck
+  454  chmod 404 munna6/beedrill
+  455  chmod 440 nidorina0
+  456  chmod 620 raichu6
+  457  cp raichu6 munna6/masquerain
+  458  chmod 720 raichu6
+  459  cp raichu6 munna6/masquerain
+  460  chmod u=rwx
+  461  ls -lR
+  462  chmod -R 700 *
+  463  ls -lR
+  464  cp raichu6 munna6/masquerain
+  465  cat munna6/masquerain
+  466  ls
+  467  ls munna6/masquerain
+  468  ln -s munna6 Copy_43
+  469  ls
+  470  ln nidorina0 mandibuzz0/medititenidorina
+  471  cp masquerain4 mandibuzz0/medititemasquerain
+  472  cat hitmontop5/geodude munna6/golduck > nidorina0_49
+  473  cat nidorina0_49
+  474  ln -s masquerain4 mandibuzz0/musharnamasquerain
+  475  cp -R mandibuzz0/musharnamasquerain
+  476  cp -R masquerain4 mandibuzz0/musharnamasquerain
+  477  cp -R hitmontop5 munna6/masquerain
+  478  ls -r lab0 | grep '^i.*'
+  479  cd home/s504606
+  480  ls -r lab0 | grep '^i.*'
+  481  ls -lR lab0 | grep '^i.*'
+  482  ls -lR lab0 | grep '^.*i.*'
+  483  ls -lR lab0 | grep '^.*/i.*'
+  484  ls -lR lab0 | grep '^-' | grep '^.*/i.*'
+  485  ls -lR lab0 | grep '^-.*' | grep '^.*/i.*'
+  486  ls -lR lab0 | grep '^.*/i.*'
+  487  ls -lR lab0 | grep '^.*/i.*' | grep '^-'
+  488  ls -lR lab0 | grep '^-.*' | grep '^.*/i.*'
+  489  ls -lR lab0 | grep '^-.*'
+  490  ls -lR lab0 | grep '^-.*' | grep '^.*/i.*'
+  491  ls -lR lab0 | grep '^-.*' | grep '^.*/i.*' | cat -n
+  492  ls -lR lab0 | grep '^.*/i.*' | cat -n
+  493  ls -lR lab0 | grep '^-.*' | grep '^.*/i.*' | while read file; do cat "$file" | wc -l; ; done
+  494  ls -lR lab0 | grep '^-.*' | grep '^.*/i.*' | while read file; do cat "$file" | wc -l; ; done > tmp
+  495  ls -lR lab0 | grep '^-.*' | grep '^.*/i.*' | while read file; do cat "$file" | wc -l; done > tmp
+  496  cd home/s504606
+  497  ls -lR lab0 | grep '^-.*' | grep '^.*/i.*' | while read file; do cat "$file" | wc -l; done > tmp
+  498  ls -lR lab0 2>&0| grep '^-.*' | grep '^.*/i.*' | while read file; do cat "$file" | wc -l; done > tmp
+  499  home/s504606/lab0
+  500  cd home/s504606/lab0
+  501  chmod 756 hitmontop5
+  502  chmod 512 igglybuff
+  503  chmod 512 hitmontop5/igglybuff
+  504  cd hitmontop5
+  505  chmod 500 dewott
+  506  chmod 511 infernape
+  507  cd ..
+  508  chmod 512 mandibuzz0
+  509  cd mandibuzz0
+  510  cnmod 044 typhlosion
+  511  chmod 044 typhlosion
+  512  chmod 444 meditite
+  513  chmod 404 musharna
+  514  chmod 335 watchog
+  515  cd ..
+  516  chmod 440 nidorina0
+  517  chmod 620 raichu6
+  518  history
