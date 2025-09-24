@@ -141,3 +141,4 @@
   516  chmod 440 nidorina0
   517  chmod 620 raichu6
   518  history
+  519  ls -lR lab0 2>&0| grep '^-.*' | grep '^.*/i.*' | while read file; do cat "$file" | wc -l; done > /tmp/obsh
