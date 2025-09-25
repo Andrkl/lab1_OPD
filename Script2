@@ -1,0 +1,26 @@
+chmod gitmontop5 756
+chmod hitmontop5 756
+chmod 756 hitmontop5
+chmod 512 igglybuff
+chmod 512 hitmontop5/igglybuff
+chmod 500 hitmontop5/dewott
+chmod a=x hitmontop5/infernape
+chmod u+r hitmontop5/infernape
+ls -lR
+cd home/s504606
+cd lab0
+chmod 700 hitmontop5/bidarel
+chmod 700 hitmontop5/bibarel
+chmod 640 hitmontop5/geodude
+chmod 512 mandibuzz0
+chmod 044 mandibuzz0/typhlosion
+chmod 444 mandibuzz0/meditite
+chmod 404 mandibuzz0/musharna
+chmod 335 mandibuzz0/watchog
+chmod 004 masquerain4
+chmod 777 munna6
+chmod 550 munna6/masquerain
+chmod 664 munna6/golduck
+chmod 404 munna6/beedrill
+chmod 440 nidorina0
+chmod 620 raichu6
