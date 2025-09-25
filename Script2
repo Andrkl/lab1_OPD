@@ -1,14 +1,8 @@
-chmod gitmontop5 756
-chmod hitmontop5 756
 chmod 756 hitmontop5
-chmod 512 igglybuff
 chmod 512 hitmontop5/igglybuff
 chmod 500 hitmontop5/dewott
 chmod a=x hitmontop5/infernape
 chmod u+r hitmontop5/infernape
-ls -lR
-cd home/s504606
-cd lab0
 chmod 700 hitmontop5/bidarel
 chmod 700 hitmontop5/bibarel
 chmod 640 hitmontop5/geodude
