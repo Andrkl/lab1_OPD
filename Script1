@@ -1,0 +1,41 @@
+mkdir lab0
+mkdir hitmontop5
+cd hitmontop5
+mkdir igglybuff
+mkdir dewolt
+mv dewolt dewott
+mkdir infernape
+mkdir bibarel
+touch geodude
+echo "Живет  Cave Mountain"> geodude
+cd ..
+mkdir mandibuzz0
+cd mandibuzz0
+touch typhlosion
+echo "Ходы  Blast Burn Body Slam
+Counter Covet Dynamicpunch Fire Pledge Fire Punch Focus Punch Fury
+Cutter Gyro Ball# Heat Wave Mega Kick Mega Punch Low Kick Mud-Slap
+Rollout Seismic Toss Sleep Talk Snore Swift 
+Thunderpunch"> typhlosion
+echo "Способности  Bride Meditate Confusion Detect
+Hidden Power Mind Reader Feint Calm Mind Force Palm Hi Jump Kick Psych
+Up Acupressure Power Trick Reversal Recover"> meditite
+echo "Способности
+Mind Mold Forewarn Synchronize">musharna
+mkdir watchog
+cd ..
+echo "satk=8 sdef=8
+spd=6">masquerain4
+mkdir munna6
+ls
+cd munna6
+mksir masquerain
+mkdir masquerain
+echo "Возможности  Overland=6 Surface=10 Underwater=10
+Jump3=0 Power=4 Intelligence=5 Telepath=0"> golduck
+echo "weight=65.0
+height=39.0 atk=8 def=4">beedrill
+cd ..
+echo "Способности  Venom Poison Point
+Rivalry">nidorina0
+echo "satk=9 sdef=8 spd=10"> raichu6
