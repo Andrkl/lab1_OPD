@@ -27,9 +27,7 @@ cd ..
 echo "satk=8 sdef=8
 spd=6">masquerain4
 mkdir munna6
-ls
 cd munna6
-mksir masquerain
 mkdir masquerain
 echo "Возможности  Overland=6 Surface=10 Underwater=10
 Jump3=0 Power=4 Intelligence=5 Telepath=0"> golduck
