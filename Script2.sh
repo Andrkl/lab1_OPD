@@ -4,7 +4,6 @@ chmod 512 hitmontop5/igglybuff
 chmod 500 hitmontop5/dewott
 chmod a=x hitmontop5/infernape
 chmod u+r hitmontop5/infernape
-chmod 700 hitmontop5/bidarel
 chmod 700 hitmontop5/bibarel
 chmod 640 hitmontop5/geodude
 chmod 512 mandibuzz0
