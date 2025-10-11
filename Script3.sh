@@ -1,3 +1,4 @@
+cd lab0
 cp raichu6 munna6/masquerain
 ln -s munna6 Copy_43
 ln nidorina0 mandibuzz0/medititenidorina
