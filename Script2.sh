@@ -1,3 +1,4 @@
+cd lab0
 chmod 756 hitmontop5
 chmod 512 hitmontop5/igglybuff
 chmod 500 hitmontop5/dewott
