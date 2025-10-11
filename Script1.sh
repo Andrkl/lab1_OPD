@@ -1,9 +1,9 @@
 mkdir lab0
+cd lab0
 mkdir hitmontop5
 cd hitmontop5
 mkdir igglybuff
-mkdir dewolt
-mv dewolt dewott
+mkdir dewott
 mkdir infernape
 mkdir bibarel
 touch geodude
