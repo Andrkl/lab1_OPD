@@ -1,3 +1,4 @@
+cd lab0
 ls -lR lab0 2>&0| grep '^-.*' | grep '^.*/i.*' | while read file; do cat "$file" | wc -; l; done > /tmp/obsh
 grep "^-" lab0 | grep -rH "di" | sort
 grep "^-.*m" lab0 | sort -r | nl
