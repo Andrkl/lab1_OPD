@@ -1,3 +1,4 @@
+cd lab0
 rm masquerain4
 rm hitmontop5/geodude
 rm mandibuzz0/musharnamasquerain
