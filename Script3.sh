@@ -1,4 +1,4 @@
-chmod -R lab0
+chmod -R 777 lab0
 cd lab0
 cp raichu6 munna6/masquerain
 ln -s munna6 Copy_43
