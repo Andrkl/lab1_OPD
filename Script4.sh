@@ -1,6 +1,6 @@
 chmod u+rw lab0/mandibuzz0/watchog
 ls -lR lab0 2>&0| grep '^-.*' | grep '^.*/i.*'| wc -l > /tmp/obsh
-chmod u+w lab0/mandibuzz0/typhlosion
+chmod u+rw lab0/mandibuzz0/typhlosion
 grep "^-" lab0 | grep -rH "di" | sort
 grep "^-.*m" lab0 | sort -r | nl
 cd lab0
